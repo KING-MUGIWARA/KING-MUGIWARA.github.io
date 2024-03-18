@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
             <div class = 'wrapper'>
             <h4>Continent: </h4>
-            <span>${data[0].continent}</span>
+            <span>${data[0].continents}</span>
             </div>
 
             <div class = 'wrapper'>
